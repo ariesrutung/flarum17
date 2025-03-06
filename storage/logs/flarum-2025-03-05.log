@@ -1,0 +1,1 @@
+[2025-03-05 21:55:46] flarum.ERROR: [{'type': 'list_type', 'loc': ('body', 'prompt', 'list[list[dict[str,any]]]'), 'msg': 'Input should be a valid list', 'input': 'What is ChatGPT OpenAPI?'}, {'type': 'list_type', 'loc': ('body', 'prompt', 'list[dict[str,any]]'), 'msg': 'Input should be a valid list', 'input': 'What is ChatGPT OpenAPI?'}]  
